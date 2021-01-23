@@ -1,0 +1,31 @@
+/* body {
+    margin-top: 56px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+} */
+
+a.navbar-brand, a.nav-link {
+    color: #222;
+}
+
+a.nav-link:hover {
+    font-weight: bold;
+}
+
+.bg-grisclair {
+    background-color: #c8c7c7;
+}
+
+.bg-orangeclair {
+    background-color: #f5bb66;
+}
+
+.bg-vertclair {
+    background-color: #c4f789;
+}
+
+.taille-police-small {
+    font-size: small;
+}
